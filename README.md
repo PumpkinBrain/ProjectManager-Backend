@@ -4,7 +4,8 @@ backend for a project management tool
 <br/>
 study goals:<br/>
   TDD with integration tests and mocking<br/>
-  create a working docker container<br/>
+  document the development process<br/>
+  make a working docker container<br/>
 
 <br/>
 <br/>
